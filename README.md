@@ -9,7 +9,7 @@
     <li>Game Development</li>
   </ul>
   <p>My hobbies are photography, gaming, and football (soccer).</p>
-</div>
+</div> 
 
 
 <!---
